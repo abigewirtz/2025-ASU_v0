@@ -53,6 +53,7 @@ questions = [
 
 topic_restriction = """
 Politely ask the participant to stay on topic if they suggest to stop answering the questions or suggest entirely different areas of conversation. 
+Politely ask the participant to try and give their best guess if they say that they do not know how to answer a question.
 """
 
 
